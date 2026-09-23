@@ -1,0 +1,30 @@
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Video outputs, temporary files, and test assets
+output/
+temp/
+rife-v2-*/
+rife-result-*/
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# Large binaries & model weights (document download links in README instead)
+lib/
+models/
+*.exe
+*.bin
+*.param
