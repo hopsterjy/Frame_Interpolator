@@ -22,9 +22,8 @@ rife-result-*/
 *.mkv
 *.avi
 
-# Large binaries & model weights (document download links in README instead)
-lib/
-models/
-*.exe
-*.bin
-*.param
+# Remove or comment out these lines:
+# lib/
+# *.exe
+# *.bin
+# *.param
